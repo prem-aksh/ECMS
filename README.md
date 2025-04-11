@@ -1,9 +1,17 @@
 # ECMS
 <h3> Dark Mode:- </h3>
-![Screenshot 2025-04-11 133227](https://github.com/user-attachments/assets/f429a43e-685a-49cb-8e0f-37ac16baefaf)
+
+![Screenshot 2025-04-11 133227](https://github.com/user-attachments/assets/11acfb4b-12eb-4323-8640-e81cc3f8b79f)
+
 <h3>Light Mode:- </h3>
-![image](https://github.com/user-attachments/assets/c3ddfcbd-cead-4779-8b56-aaa76d340504)
+
+![Screenshot 2025-04-11 141810](https://github.com/user-attachments/assets/c9feb727-86d1-413b-a10d-f5870ee1a97c)
+
 <h3>Tutor's Dashboard:- </h3>
-![image](https://github.com/user-attachments/assets/86f6ae6d-c6e4-4b2e-95d7-a0e013b4760e)
+
+![Screenshot 2025-04-11 141842](https://github.com/user-attachments/assets/342b2343-d904-4788-8c33-ac8a4e288745)
+
 <h3>Student Profile Page:- </h3>
-![image](https://github.com/user-attachments/assets/6bde5d66-1c79-4973-b764-78c3a79418e7)
+
+![Screenshot 2025-04-11 142328](https://github.com/user-attachments/assets/a9c5d512-ed5b-4e80-888d-74c580874f58)
+
